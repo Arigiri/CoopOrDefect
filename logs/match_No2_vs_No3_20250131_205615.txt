@@ -1,0 +1,21 @@
+Match: No2 vs No3
+Winner: No2
+--------------------------------------------------
+History:
+
+Turn 1:
+No2: C (Score: 13)
+No3: D (Score: 5)
+
+Turn 2:
+No2: C (Score: 13)
+No3: D (Score: 10)
+
+Turn 3:
+No2: C (Score: 16)
+No3: C (Score: 13)
+
+--------------------------------------------------
+Final Scores:
+No2: 16
+No3: 13

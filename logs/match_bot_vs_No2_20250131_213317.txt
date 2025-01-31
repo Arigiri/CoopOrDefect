@@ -1,0 +1,21 @@
+Match: bot vs No2
+Winner: bot
+--------------------------------------------------
+History:
+
+Turn 1:
+bot: D (Score: 5)
+No2: C (Score: 0)
+
+Turn 2:
+bot: D (Score: 10)
+No2: C (Score: 0)
+
+Turn 3:
+bot: D (Score: 15)
+No2: C (Score: 0)
+
+--------------------------------------------------
+Final Scores:
+bot: 15
+No2: 0

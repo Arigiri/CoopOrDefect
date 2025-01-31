@@ -1,0 +1,5 @@
+Match: bot vs No3
+Winner: bot
+--------------------------------------------------
+
+Trận đấu kết thúc sớm do một bên timeout hoặc lỗi

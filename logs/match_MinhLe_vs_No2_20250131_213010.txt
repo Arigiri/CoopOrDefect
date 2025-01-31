@@ -1,0 +1,41 @@
+Match: MinhLe vs No2
+Winner: MinhLe
+--------------------------------------------------
+History:
+
+Turn 1:
+MinhLe: D (Score: 1)
+No2: D (Score: 1)
+
+Turn 2:
+MinhLe: D (Score: 2)
+No2: D (Score: 2)
+
+Turn 3:
+MinhLe: C (Score: 5)
+No2: C (Score: 5)
+
+Turn 4:
+MinhLe: C (Score: 8)
+No2: C (Score: 8)
+
+Turn 5:
+MinhLe: C (Score: 8)
+No2: D (Score: 13)
+
+Turn 6:
+MinhLe: D (Score: 13)
+No2: C (Score: 13)
+
+Turn 7:
+MinhLe: D (Score: 14)
+No2: D (Score: 14)
+
+Turn 8:
+MinhLe: D (Score: 19)
+No2: C (Score: 14)
+
+--------------------------------------------------
+Final Scores:
+MinhLe: 19
+No2: 14

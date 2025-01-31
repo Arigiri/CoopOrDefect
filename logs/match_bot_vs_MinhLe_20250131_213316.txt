@@ -1,0 +1,29 @@
+Match: bot vs MinhLe
+Winner: MinhLe
+--------------------------------------------------
+History:
+
+Turn 1:
+bot: C (Score: 3)
+MinhLe: C (Score: 3)
+
+Turn 2:
+bot: C (Score: 3)
+MinhLe: D (Score: 8)
+
+Turn 3:
+bot: C (Score: 6)
+MinhLe: C (Score: 11)
+
+Turn 4:
+bot: C (Score: 9)
+MinhLe: C (Score: 14)
+
+Turn 5:
+bot: D (Score: 10)
+MinhLe: D (Score: 15)
+
+--------------------------------------------------
+Final Scores:
+bot: 10
+MinhLe: 15

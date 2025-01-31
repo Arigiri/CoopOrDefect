@@ -1,0 +1,33 @@
+Match: bot vs No3
+Winner: bot
+--------------------------------------------------
+History:
+
+Turn 1:
+bot: C (Score: 3)
+No3: C (Score: 3)
+
+Turn 2:
+bot: D (Score: 8)
+No3: C (Score: 3)
+
+Turn 3:
+bot: D (Score: 9)
+No3: D (Score: 4)
+
+Turn 4:
+bot: D (Score: 14)
+No3: C (Score: 4)
+
+Turn 5:
+bot: C (Score: 14)
+No3: D (Score: 9)
+
+Turn 6:
+bot: D (Score: 15)
+No3: D (Score: 10)
+
+--------------------------------------------------
+Final Scores:
+bot: 15
+No3: 10

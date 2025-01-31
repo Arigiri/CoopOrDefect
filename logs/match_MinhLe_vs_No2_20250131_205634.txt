@@ -1,0 +1,5 @@
+Match: MinhLe vs No2
+Winner: MinhLe
+--------------------------------------------------
+
+Trận đấu kết thúc sớm do một bên timeout hoặc lỗi

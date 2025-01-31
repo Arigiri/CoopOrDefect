@@ -1,0 +1,33 @@
+Match: MinhLe vs No3
+Winner: MinhLe
+--------------------------------------------------
+History:
+
+Turn 1:
+MinhLe: C (Score: 0)
+No3: D (Score: 5)
+
+Turn 2:
+MinhLe: D (Score: 5)
+No3: C (Score: 5)
+
+Turn 3:
+MinhLe: D (Score: 6)
+No3: D (Score: 6)
+
+Turn 4:
+MinhLe: D (Score: 11)
+No3: C (Score: 6)
+
+Turn 5:
+MinhLe: C (Score: 14)
+No3: C (Score: 9)
+
+Turn 6:
+MinhLe: C (Score: 17)
+No3: C (Score: 12)
+
+--------------------------------------------------
+Final Scores:
+MinhLe: 17
+No3: 12

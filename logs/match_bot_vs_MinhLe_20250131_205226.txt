@@ -1,0 +1,25 @@
+Trận đấu: bot vs MinhLe
+Người thắng: bot
+--------------------------------------------------
+Lịch sử:
+
+Lượt 1:
+bot: C (Điểm: 6)
+MinhLe: C (Điểm: 3)
+
+Lượt 2:
+bot: C (Điểm: 9)
+MinhLe: C (Điểm: 6)
+
+Lượt 3:
+bot: D (Điểm: 14)
+MinhLe: C (Điểm: 6)
+
+Lượt 4:
+bot: D (Điểm: 15)
+MinhLe: D (Điểm: 7)
+
+--------------------------------------------------
+Điểm cuối cùng:
+bot: 15
+MinhLe: 7
