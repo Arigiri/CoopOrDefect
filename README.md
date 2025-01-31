@@ -72,7 +72,7 @@ MiniGame/
 
 1. Clone repository này về máy:
 ```bash
-git clone <repository_url>
+git clone https://github.com/Arigiri/CoopOrDefect
 cd MiniGame
 ```
 
