@@ -9,6 +9,7 @@ MiniGame/
 ├── Algorithm/         # Thư mục chứa các thuật toán AI
 ├── Backend/          # Logic xử lý game
 ├── Frontend/         # Giao diện người dùng
+├── CoopOrDefect/    # Thư mục chính của game
 └── logs/            # Log kết quả các trận đấu
 ```
 
@@ -65,16 +66,28 @@ MiniGame/
 ## Yêu cầu hệ thống
 
 - Python 3.6 trở lên
-- Pygame
+- Pygame 2.5.2
 
-## Cài đặt
+## Cài đặt và chạy
 
-1. Cài đặt các thư viện cần thiết:
+1. Clone repository này về máy:
 ```bash
-pip install pygame
+git clone <repository_url>
+cd MiniGame
 ```
 
-2. Chạy game:
+2. Cài đặt các thư viện cần thiết:
 ```bash
-python -m Frontend.main
+pip install -r requirements.txt
 ```
+
+3. Chạy game:
+```bash
+python main.py
+```
+
+## Lưu ý
+
+- Đảm bảo thư mục `logs` đã được tạo trước khi chạy game
+- Các file AI trong thư mục `Algorithm` phải có hàm `giveDecision(history)` hợp lệ
+- Game sẽ tự động tìm và load tất cả các file .py trong thư mục `Algorithm`
